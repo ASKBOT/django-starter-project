@@ -28,3 +28,11 @@ Usage
   or install them into the virtual environment
 * Directory `project_conf` does not need to be renamed
 * Default url '/' displays the "base.html" template - extend this template
+
+Authors
+-------
+* Evgeny Fadeev (evgeny.fadeev@gmail.com)
+
+License
+-------
+* MIT License
