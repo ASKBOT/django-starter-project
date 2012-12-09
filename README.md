@@ -12,6 +12,7 @@ Features
 * directory project_conf contains settings.py and urls.py
 * html5 doctype in the base template with screen, print and IE fixes js files (from sass)
 * easy to switch between Django and Jinja2 templates
+* the template is based on html5 boilerplate
 * base template works both with Django and Jinja2 templates
 
 Installation
